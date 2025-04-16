@@ -1,6 +1,7 @@
 # Calculator_using_DLD
 
-Project Overview 🛠️
+**Project Overview 🛠️**
+
 The project aims to develop a sophisticated processor for a calculator, capable of executing a predefined set of commands efficiently. The processor will feature inputs for clock pulses, command availability, the command itself, and input data, along with outputs for output availability and data.
 
 To implement the processor, a blend of digital logic concepts including combinational logic, sequential logic, and state machines will be employed. Combinational logic involves logic gates that amalgamate inputs to produce a single output, while sequential logic circuits store and utilize information over time. State machines dictate the behavior of digital systems by defining states and their transitions.
