@@ -14,6 +14,9 @@ How to Use
 To run this project on your PC, follow these simple steps:
 
 1.Download the Logic works
+
 2.Unzip the folder
+
 3.Download the calculator.cct and calculator.bak files
+
 4.Run logic works and open .cct file
